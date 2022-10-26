@@ -1,0 +1,13 @@
+
+
+.aboutme-container {
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    min-height: 50vh;
+}
+
+.aboutme-content{
+    padding: 20px;
+    background-color: burlywood;
+}

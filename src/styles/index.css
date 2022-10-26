@@ -1,2 +1,9 @@
 
 @import './normalize.css';
+@import './basicsStyles.css';
+
+@import './components/buttons.css';
+@import './components/modal.css';
+@import './components/header.css';
+@import './components/aboutme.css';
+@import './components/socialMedia.css';
